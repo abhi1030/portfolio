@@ -1,0 +1,31 @@
+{
+    "assets" : [
+        {"name": "A", "dimension": {"w": 35, "h": 50, "x": 0, "y": 0, "s": 1}},
+        {"name": "B", "dimension": {"w": 35, "h": 50, "x": 35, "y": 0, "s": 1}},
+        {"name": "C", "dimension": {"w": 35, "h": 50, "x": 70, "y": 0, "s": 1}},
+        {"name": "D", "dimension": {"w": 35, "h": 50, "x": 105, "y": 0, "s": 1}},
+        {"name": "E", "dimension": {"w": 35, "h": 50, "x": 140, "y": 0, "s": 1}},
+        {"name": "F", "dimension": {"w": 35, "h": 50, "x": 175, "y": 0, "s": 1}},
+        {"name": "G", "dimension": {"w": 35, "h": 50, "x": 205, "y": 0, "s": 1}},
+        {"name": "H", "dimension": {"w": 35, "h": 50, "x": 245, "y": 0, "s": 1}},
+        {"name": "I", "dimension": {"w": 20, "h": 50, "x": 280, "y": 0, "s": 1}},
+        {"name": "J", "dimension": {"w": 25, "h": 50, "x": 300, "y": 0, "s": 1}},
+        {"name": "K", "dimension": {"w": 35, "h": 50, "x": 325, "y": 0, "s": 1}},
+        {"name": "L", "dimension": {"w": 30, "h": 50, "x": 360, "y": 0, "s": 1}},
+        {"name": "M", "dimension": {"w": 35, "h": 50, "x": 390, "y": 0, "s": 1}},
+        {"name": "N", "dimension": {"w": 35, "h": 50, "x": 430, "y": 0, "s": 1}},
+        {"name": "O", "dimension": {"w": 40, "h": 50, "x": 465, "y": 0, "s": 1}},
+        {"name": "P", "dimension": {"w": 30, "h": 50, "x": 505, "y": 0, "s": 1}},
+        {"name": "Q", "dimension": {"w": 40, "h": 50, "x": 535, "y": 0, "s": 1}},
+        {"name": "R", "dimension": {"w": 35, "h": 50, "x": 575, "y": 0, "s": 1}},
+        {"name": "S", "dimension": {"w": 35, "h": 50, "x": 610, "y": 0, "s": 1}},
+        {"name": "T", "dimension": {"w": 35, "h": 50, "x": 645, "y": 0, "s": 1}},
+        {"name": "U", "dimension": {"w": 30, "h": 50, "x": 680, "y": 0, "s": 1}},
+        {"name": "V", "dimension": {"w": 35, "h": 50, "x": 710, "y": 0, "s": 1}},
+        {"name": "W", "dimension": {"w": 50, "h": 50, "x": 745, "y": 0, "s": 1}},
+        {"name": "X", "dimension": {"w": 35, "h": 50, "x": 795, "y": 0, "s": 1}},
+        {"name": "Y", "dimension": {"w": 30, "h": 50, "x": 830, "y": 0, "s": 1}},
+        {"name": "Z", "dimension": {"w": 35, "h": 50, "x": 865, "y": 0, "s": 1}},
+        {"name": " ", "dimension": {"w": 20, "h": 50, "x": 900, "y": 0, "s": 1}}
+    ]
+}
